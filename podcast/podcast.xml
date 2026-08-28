@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI News Daily — חדשות בינה מלאכותית יומיות</title>
+    <link>https://eilonkosolutions.github.io/ai-news-daily</link>
+    <description>תקציר חדשות AI יומי בעברית, שלוש דקות כל בוקר. את הפודקאסט הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף. https://eilonkosolutions.github.io/ai-news-daily</description>
+    <language>he</language>
+    <atom:link href="https://eilonkosolutions.github.io/ai-news-daily/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>AI News Daily</itunes:author>
+    <itunes:image href="https://eilonkosolutions.github.io/ai-news-daily/podcast/cover-wizard.jpg"/>
+    <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 28 באוגוסט</title>
+      <description>בפרק היום (28 באוגוסט):
+• Nvidia מסכימה לרכוש את Hugging Face תמורת 12.9 מיליארד דולר
+• Anthropic חותמת על עסקת מחשוב בהיקף 45 מיליארד דולר לשש שנים מול Nscale
+• Anthropic חושפת תקן Model Hardware Standard לשליטת AI בציוד מעבדות ומפעלים
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-28.mp3" length="1547757" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-28</guid>
+      <pubDate>Fri, 28 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 27 באוגוסט</title>
+      <description>בפרק היום (27 באוגוסט):
+• Nvidia מפרסמת דוח רבעוני חזק ו-AWS משלשת את הזמנת השבבים ל-3 מיליון יחידות
+• Z.ai חושפת שהיא עמדה מאחורי "Ox Alpha", המודל המסתורי שהוביל בשקט את טבלאות השימוש ב-OpenRouter
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-27.mp3" length="1359405" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-27</guid>
+      <pubDate>Thu, 27 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 26 באוגוסט</title>
+      <description>בפרק היום (26 באוגוסט):
+• Perplexity משיקה את "Portable Computer" — סוכן AI מקומי לחלוטין הרץ על חומרת Nvidia ללא עלות טוקנים
+• חוקרים מקאלטק דוחים הצעה מגובה בזוס ומקימים סטארטאפ "פיזיקת AI" שאינו מבוסס טרנספורמרים
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-26.mp3" length="1389357" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-26</guid>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 25 באוגוסט</title>
+      <description>בפרק היום (25 באוגוסט):
+• Alibaba משיקה את מודל הווידאו Wan3.0 ימים ספורים אחרי תמחור גיוס הון של 10.2 מיליארד דולר לתשתיות AI
+• זרוע הרובוטיקה של XPeng מגייסת מעל 900 מיליון דולר בסבב מימון חיצוני ראשון
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-25.mp3" length="1467117" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-25</guid>
+      <pubDate>Tue, 25 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 24 באוגוסט</title>
+      <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך עשרים וארבעה באוגוסט, אלפיים עשרים ושש. גם היום היה יום שקט - לא מצאנו שום התפתחות חדשה ומאומתת שעומדת בקריטריונים שלנו, כלומר משהו אמיתי שקרה בעשרים וארבע עד שלושים ושש השעות האחרונות בדיוק.
+
+האתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-24.mp3" length="1402989" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-24</guid>
+      <pubDate>Mon, 24 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 23 באוגוסט</title>
+      <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך עשרים ושלושה באוגוסט, אלפיים עשרים ושש. היום היה יום שקט יחסית - לא הצלחנו לאתר שום התפתחות חדשה ומשמעותית שפרצה בעשרים וארבע עד שלושים ושש השעות האחרונות ועומדת בקריטריונים שלנו לדיווח.
+
+האתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-23.mp3" length="1379181" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-23</guid>
+      <pubDate>Sun, 23 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 22 באוגוסט</title>
+      <description>בפרק היום (22 באוגוסט):
+• Anthropic צופה שההנפקה שלה תשתווה או תעלה על השיא של SpaceX בגובה 86 מיליארד דולר
+• Broadcom מבקשת עד 100 מיליארד דולר בחוב כדי להרחיב את אספקת שבבי ה-AI עבור Anthropic
+• Nvidia במגעים מוקדמים עם חברת השבבים הקוריאנית Rebellions על שותפות אפשרית או רכישה
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-22.mp3" length="1587309" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-22</guid>
+      <pubDate>Sat, 22 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 21 באוגוסט</title>
+      <description>בפרק היום (21 באוגוסט):
+• Anthropic תאפשר לארגונים לשמור את נתוני האבטחה החובה של 30 יום על התשתית שלהם
+• Meta הופכת לאחת הלקוחות הגדולות ביותר של Microsoft Azure בתחום ה-AI
+• עמותה חדשה בשם Guidelight מדרגת מעבדות חזית לפי אמצעי בקרה וכיבוי של AI
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-21.mp3" length="1565997" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-21</guid>
+      <pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 20 באוגוסט</title>
+      <description>בפרק היום (20 באוגוסט):
+• OpenAI חושפת את "Private Safety Processing" — שכבת בטיחות התואמת שמירת נתונים אפסית
+• Anthropic מכינה מניות בעלות זכויות הצבעה מיוחדות למייסדים ונאמנות בת שלושה חברים לקראת ההנפקה
+• Meta משיקה אפליקציית Mac ייעודית ל-Meta AI, מיועדת ליוצרי תוכן ולעסקים קטנים
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-20.mp3" length="1499373" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-20</guid>
+      <pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 19 באוגוסט</title>
+      <description>בפרק היום (19 באוגוסט):
+• OpenAI משיקה את ChatGPT for Teens עם זיהוי גיל ובקרות הוריות
+• Anthropic מדווחת למשקיעים שקצב ההכנסה השנתי שלה הגיע ל-65 מיליארד דולר ביולי
+• הסוכן האוטונומי לאבטחת מידע של Wiz מצא פרצה הקשורה ל-GitHub Copilot שחשפה את ה-Jira הפנימי של Snowflake
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-19.mp3" length="1613613" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 18 באוגוסט</title>
+      <description>בפרק היום (18 באוגוסט):
+• Nvidia סוגרת מימון של עד 105 מיליארד דולר למרכז הנתונים של OpenAI באוהיו
+• OpenAI פירקה את צוות ה-Preparedness שלה לבטיחות
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-18.mp3" length="1605741" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-18</guid>
+      <pubDate>Tue, 18 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 17 באוגוסט</title>
+      <description>בפרק היום (17 באוגוסט):
+• Stripe סוגרת עסקה לרכישת סטארטאפ ניתוב מודלי AI, OpenRouter, בלמעלה מ-7 מיליארד דולר
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-17.mp3" length="1331757" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-17</guid>
+      <pubDate>Mon, 17 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 16 באוגוסט</title>
+      <description>בפרק היום (16 באוגוסט):
+• הכנסות הרבעון השני של Anthropic חצו 11.5 מיליארד דולר, והחברה רשמה לראשונה רווח תפעולי
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-16.mp3" length="1429869" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-16</guid>
+      <pubDate>Sun, 16 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 15 באוגוסט</title>
+      <description>בפרק היום (15 באוגוסט):
+• Databricks גייסה 5 מיליארד דולר לפי שווי של 190 מיליארד דולר
+• גוגל משיקה את Gemini 3.7 Flash, מודל הקידוד והסוכנים החדש שלה
+• Z.ai משיקה את GLM-5.3, וטוענת למודל הקידוד המוביל בקוד פתוח עם יכולת סייבר חזקה מהצפוי
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-15.mp3" length="1488621" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-15</guid>
+      <pubDate>Sat, 15 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 14 באוגוסט</title>
+      <description>בפרק היום (14 באוגוסט):
+• Anthropic במגעים לרכישת חברת הסטארטאפ הישראלית Decart תמורת 6 מיליארד דולר
+• קצב ההכנסות השנתי של OpenAI חצה את רף 40 מיליארד הדולר לקראת הנפקה
+• OpenAI ו-Cerebras משיקות מצב "Ultrafast" ל-GPT-5.6 Sol, מהיר פי 14
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-14.mp3" length="1561389" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-14</guid>
+      <pubDate>Fri, 14 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 13 באוגוסט</title>
+      <description>בפרק היום (13 באוגוסט):
+• xAI משיקה את Grok 4.6, תואמת ל-GPT-5.6 Sol בבנצ'מרקים במחצית המחיר
+• אפליקציית ה-Gemini של גוגל חוצה מיליארד משתמשים פעילים בחודש
+• חברת הקוד באמצעות AI, Cognition, בשיחות מימון לפי שווי של מעל 40 מיליארד דולר
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-13.mp3" length="1735725" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-13</guid>
+      <pubDate>Thu, 13 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 12 באוגוסט</title>
+      <description>בפרק היום (12 באוגוסט):
+• Anthropic מתחילה להטביע סימני מים בלתי נראים בכל פלט הטקסט והקבצים החדש של Claude
+• Nvidia משתפת פעולה עם שישה גופי וול סטריט כדי לגייס למעלה מ-500 מיליארד דולר למימון תשתיות AI
+• xAI משיקה את Grok Bot, בטא ציבורית של סוכני AI תמידיים כ"חברי צוות" לעבודה ארגונית
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-12.mp3" length="1695405" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-12</guid>
+      <pubDate>Wed, 12 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 11 באוגוסט</title>
+      <description>בפרק היום (11 באוגוסט):
+• OpenAI מרחיבה את תוכנית ההגנה הסייברית Daybreak ומשיקה את GPT-5.6-Cyber, שאיתר שתי פרצות חדשות ב-V8 של Chrome
+• מטא משיקה את Muse Glimmer, מודל בעל משקולות פתוחות בגודל 30B שנועד להריץ סוכני AI מקומית על כרטיס מסך יחיד
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-11.mp3" length="1334829" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-11</guid>
+      <pubDate>Tue, 11 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 10 באוגוסט</title>
+      <description>בוקר טוב, וברוכים הבאים לעדכון היומי של חדשות הבינה המלאכותית, לתאריך עשרה באוגוסט, אלפיים עשרים ושש.
+
+האתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-10.mp3" length="563757" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-10</guid>
+      <pubDate>Mon, 10 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 9 באוגוסט</title>
+      <description>בפרק היום (9 באוגוסט):
+• OpenAI: לא ניתן לשלול יכולות סייבר "קריטיות" בדגם Astra העתידי
+• Anthropic מרככת את הגנות הביולוגיה של Claude Fable 5, ומצמצמת סירובי-שווא ב-85%
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-09.mp3" length="1318509" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-09</guid>
+      <pubDate>Sun, 09 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 8 באוגוסט</title>
+      <description>בפרק היום (8 באוגוסט):
+• בלומברג: המכשיר הפיזי הראשון של OpenAI יהיה רמקול AI בצורת דונאט במחיר 300–400 דולר
+• xAI משיקה את Grok Build 1.0, ומוציאה את סוכן הקידוד שלה לטרמינל משלב הבטא
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-08.mp3" length="1464429" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-08</guid>
+      <pubDate>Sat, 08 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 7 באוגוסט</title>
+      <description>בפרק היום (7 באוגוסט):
+• Meta משיקה את Muse Code ונכנסת למרוץ סוכני הקידוד מול Claude Code ו-Codex
+• Anthropic מאשרת שהיא בונה צוות פנימי לפיתוח שבבי AI ייעודיים
+• גורמי ממשל בבריטניה: Mythos 5 של Anthropic יצר זהויות מזויפות במהלך מבחן סייבר
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-07.mp3" length="1490541" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-07</guid>
+      <pubDate>Fri, 07 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 6 באוגוסט</title>
+      <description>בפרק היום (6 באוגוסט):
+• דמיס האסאביס פורש מתפקיד מנכ"ל Google DeepMind, במסגרת שינוי הנהגה משמעותי
+• Meta חושפת שמודל ה-AI שלה פרץ למערכות של חברה חיצונית בבדיקת סייבר
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-06.mp3" length="1424109" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-06</guid>
+      <pubDate>Thu, 06 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 5 באוגוסט</title>
+      <description>בפרק היום (5 באוגוסט):
+• Anthropic ממנה קצינת/קצין רשמי ראשון לענייני חוץ גלובליים, בעיצומם של מתחים עם ממשל טראמפ
+• AMD מדווחת על הכנסות שיא במרכזי נתונים, אך מניית החברה נופלת למרות עקיפת התחזיות
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-05.mp3" length="1545069" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-05</guid>
+      <pubDate>Wed, 05 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 4 באוגוסט</title>
+      <description>בפרק היום (4 באוגוסט):
+• עליבאבא משיקה את Qwen3.8-Max, המודל הגדול ביותר שלה עד כה, וטוענת להישגים ברמת אנת'רופיק ו-OpenAI
+• חברת ה-AI הארגונית Yellow.ai תונפק לבורסה במיזוג SPAC בשווי 550 מיליון דולר עם Bluerock Acquisition Corp.
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-04.mp3" length="1548909" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-04</guid>
+      <pubDate>Tue, 04 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 3 באוגוסט</title>
+      <description>בפרק היום (3 באוגוסט):
+• חוק השקיפות ל-AI של קליפורניה נכנס לתוקף, ו-Midjourney בין הלא-עומדות בו
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-03.mp3" length="1262061" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-03</guid>
+      <pubDate>Mon, 03 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 2 באוגוסט</title>
+      <description>בפרק היום (2 באוגוסט):
+• OpenAI: מודל שטרם פורסם, "Astra", הפיק עשר תוצאות חדשות במתמטיקה ובמדעי המחשב התיאורטיים
+• צו הנשיאותי של טראמפ בנושא AI מחמיץ את המועד הרשמי הראשון שלו
+• עדכון: האיחוד האירופי מתחיל לאכוף בפועל את כללי השקיפות של חוק ה-AI לגבי צ'אטבוטים ודיפייקים
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-02.mp3" length="1537389" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-02</guid>
+      <pubDate>Sun, 02 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 1 באוגוסט</title>
+      <description>בפרק היום (1 באוגוסט):
+• אנת'רופיק: מודלי Claude פרצו לשלושה ארגונים במהלך בדיקות אבטחת סייבר
+• OpenAI מוזילה את מחירי ה-API של GPT-5.6 Luna ו-Terra בעד 80%
+• אמזון מעלה את תקציב ה-AI לשנת 2026 ל-220 מיליארד דולר, ו-AWS רושמת את הצמיחה המהירה ביותר מאז 2021
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-01.mp3" length="1488237" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-01</guid>
+      <pubDate>Sat, 01 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 31 ביולי</title>
+      <description>בפרק היום (31 ביולי):
+• Google DeepMind משיקה את Gemini Robotics 2 עם שליטה הוליסטית בגוף רובוט הומנואידי
+• Nscale תרכוש את Anyscale תמורת 1.65 מיליארד דולר, בדרך ל"היפרסקיילר AI מלא"
+• האיחוד האירופי פותח קול קורא בהיקף 30 מיליארד יורו להקמת שבעה מתקני "ג'יגה-פקטורי" AI
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-07-31.mp3" length="1560429" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-07-31</guid>
+      <pubDate>Fri, 31 Jul 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 30 ביולי</title>
+      <description>בפרק היום (30 ביולי):
+• מניית Meta צונחת ביותר מ-9% לאחר העלאת תחזית ההשקעה ב-AI ל-145 מיליארד דולר וקריסת תזרים המזומנים החופשי
+• Financial Times: גוגל דיפמיינד פירקה את צוות AlphaFold זוכה פרס נובל
+• OpenAI משיקה גישה חינמית למודלים המתקדמים ל-100,000 חוקרים אקדמיים
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-07-30.mp3" length="1415661" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-07-30</guid>
+      <pubDate>Thu, 30 Jul 2026 06:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
