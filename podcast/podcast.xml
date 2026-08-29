@@ -11,6 +11,18 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 29 באוגוסט</title>
+      <description>בפרק היום (29 באוגוסט):
+• שופט פדרלי קובע כי הפנטגון הכניס את Anthropic לרשימה שחורה שלא כדין
+• Meta סוגרת פרצת פרטיות במשקפי AI שאפשרה להסתיר הקלטה לאחר שהחלה
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-29.mp3" length="1800237" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-29</guid>
+      <pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 28 באוגוסט</title>
       <description>בפרק היום (28 באוגוסט):
 • Nvidia מסכימה לרכוש את Hugging Face תמורת 12.9 מיליארד דולר
@@ -361,19 +373,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-07-31.mp3" length="1560429" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-07-31</guid>
       <pubDate>Fri, 31 Jul 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 30 ביולי</title>
-      <description>בפרק היום (30 ביולי):
-• מניית Meta צונחת ביותר מ-9% לאחר העלאת תחזית ההשקעה ב-AI ל-145 מיליארד דולר וקריסת תזרים המזומנים החופשי
-• Financial Times: גוגל דיפמיינד פירקה את צוות AlphaFold זוכה פרס נובל
-• OpenAI משיקה גישה חינמית למודלים המתקדמים ל-100,000 חוקרים אקדמיים
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-07-30.mp3" length="1415661" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-07-30</guid>
-      <pubDate>Thu, 30 Jul 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
