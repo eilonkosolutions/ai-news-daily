@@ -11,6 +11,16 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 30 באוגוסט</title>
+      <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך שלושים באוגוסט, אלפיים עשרים ושש. סוף שבוע שקט היום - לא מצאנו שום התפתחות חדשה ומאומתת שעומדת בקריטריונים שלנו, כלומר משהו אמיתי שקרה בעשרים וארבע עד שלושים ושש השעות האחרונות בדיוק, מהמעבדות המובילות ומהמקורות שאנחנו עוקבים אחריהם כל בוקר.
+
+האתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-30.mp3" length="1430637" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-30</guid>
+      <pubDate>Sun, 30 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 29 באוגוסט</title>
       <description>בפרק היום (29 באוגוסט):
 • שופט פדרלי קובע כי הפנטגון הכניס את Anthropic לרשימה שחורה שלא כדין
@@ -360,19 +370,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-01.mp3" length="1488237" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-08-01</guid>
       <pubDate>Sat, 01 Aug 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 31 ביולי</title>
-      <description>בפרק היום (31 ביולי):
-• Google DeepMind משיקה את Gemini Robotics 2 עם שליטה הוליסטית בגוף רובוט הומנואידי
-• Nscale תרכוש את Anyscale תמורת 1.65 מיליארד דולר, בדרך ל"היפרסקיילר AI מלא"
-• האיחוד האירופי פותח קול קורא בהיקף 30 מיליארד יורו להקמת שבעה מתקני "ג'יגה-פקטורי" AI
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-07-31.mp3" length="1560429" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-07-31</guid>
-      <pubDate>Fri, 31 Jul 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
