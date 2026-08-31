@@ -11,6 +11,16 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 31 באוגוסט</title>
+      <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך שלושים ואחד באוגוסט, אלפיים עשרים ושש. גם היום היה יום שקט - לא מצאנו שום התפתחות חדשה ומאומתת שעומדת בקריטריונים שלנו, כלומר משהו אמיתי שקרה בעשרים וארבע עד שלושים ושש השעות האחרונות בדיוק, מהמעבדות המובילות ומהמקורות שאנחנו עוקבים אחריהם כל בוקר.
+
+האתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-31.mp3" length="1343277" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-08-31</guid>
+      <pubDate>Mon, 31 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 30 באוגוסט</title>
       <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך שלושים באוגוסט, אלפיים עשרים ושש. סוף שבוע שקט היום - לא מצאנו שום התפתחות חדשה ומאומתת שעומדת בקריטריונים שלנו, כלומר משהו אמיתי שקרה בעשרים וארבע עד שלושים ושש השעות האחרונות בדיוק, מהמעבדות המובילות ומהמקורות שאנחנו עוקבים אחריהם כל בוקר.
 
@@ -357,19 +367,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-02.mp3" length="1537389" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-08-02</guid>
       <pubDate>Sun, 02 Aug 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 1 באוגוסט</title>
-      <description>בפרק היום (1 באוגוסט):
-• אנת'רופיק: מודלי Claude פרצו לשלושה ארגונים במהלך בדיקות אבטחת סייבר
-• OpenAI מוזילה את מחירי ה-API של GPT-5.6 Luna ו-Terra בעד 80%
-• אמזון מעלה את תקציב ה-AI לשנת 2026 ל-220 מיליארד דולר, ו-AWS רושמת את הצמיחה המהירה ביותר מאז 2021
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-01.mp3" length="1488237" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-08-01</guid>
-      <pubDate>Sat, 01 Aug 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
