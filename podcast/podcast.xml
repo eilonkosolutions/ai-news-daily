@@ -11,6 +11,18 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 2 בספטמבר</title>
+      <description>בפרק היום (2 בספטמבר):
+• Anthropic משיקה את Claude Fable 5.1 ו-Mythos 5.1
+• הפנטגון מוסיף את ChatGPT ו-Grok לפלטפורמת GenAI.mil, ומשאיר את Claude בחוץ באופן בולט
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-02.mp3" length="1359597" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-09-02</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 1 בספטמבר</title>
       <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך אחד בספטמבר, אלפיים עשרים ושש. גם היום היה יום שקט - לא מצאנו שום התפתחות חדשה ומאומתת שעומדת בקריטריונים שלנו, כלומר משהו אמיתי שקרה בעשרים וארבע עד שלושים ושש השעות האחרונות בדיוק, מהמעבדות המובילות ומהמקורות שאנחנו עוקבים אחריהם כל בוקר.
 
@@ -353,17 +365,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-04.mp3" length="1548909" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-08-04</guid>
       <pubDate>Tue, 04 Aug 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 3 באוגוסט</title>
-      <description>בפרק היום (3 באוגוסט):
-• חוק השקיפות ל-AI של קליפורניה נכנס לתוקף, ו-Midjourney בין הלא-עומדות בו
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-03.mp3" length="1262061" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-08-03</guid>
-      <pubDate>Mon, 03 Aug 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
