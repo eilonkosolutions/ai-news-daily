@@ -11,6 +11,19 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 3 בספטמבר</title>
+      <description>בפרק היום (3 בספטמבר):
+• גוגל משיקה את Gemini 3.8 Flash וגרסת Cyber
+• OpenAI מאשרת ש-Astra חצה את סף היכולת הקריטית בסייבר
+• עדכון Qwen3.8-Max-0902 של עליבאבא מגיע לפסגת מבחן קוד מוביל
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-03.mp3" length="1485741" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-09-03</guid>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 2 בספטמבר</title>
       <description>בפרק היום (2 בספטמבר):
 • Anthropic משיקה את Claude Fable 5.1 ו-Mythos 5.1
@@ -353,18 +366,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-05.mp3" length="1545069" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-08-05</guid>
       <pubDate>Wed, 05 Aug 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 4 באוגוסט</title>
-      <description>בפרק היום (4 באוגוסט):
-• עליבאבא משיקה את Qwen3.8-Max, המודל הגדול ביותר שלה עד כה, וטוענת להישגים ברמת אנת'רופיק ו-OpenAI
-• חברת ה-AI הארגונית Yellow.ai תונפק לבורסה במיזוג SPAC בשווי 550 מיליון דולר עם Bluerock Acquisition Corp.
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-04.mp3" length="1548909" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-08-04</guid>
-      <pubDate>Tue, 04 Aug 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
