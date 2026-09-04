@@ -11,6 +11,19 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 4 בספטמבר</title>
+      <description>בפרק היום (4 בספטמבר):
+• OpenAI משיקה את GPT-6 Astra, המודל הראשון שלה שחוצה את סף היכולת ה"קריטית" בסייבר
+• Broadcom מדווחת על הכנסות שיא משבבי AI, וצופה 230 מיליארד דולר עד 2028
+• חברת Moonshot AI הסינית מגישה בקשה חסויה להנפקה בהונג קונג בהיקף 3 מיליארד דולר
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-04.mp3" length="1506285" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-09-04</guid>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 3 בספטמבר</title>
       <description>בפרק היום (3 בספטמבר):
 • גוגל משיקה את Gemini 3.8 Flash וגרסת Cyber
@@ -354,18 +367,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-06.mp3" length="1424109" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-08-06</guid>
       <pubDate>Thu, 06 Aug 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 5 באוגוסט</title>
-      <description>בפרק היום (5 באוגוסט):
-• Anthropic ממנה קצינת/קצין רשמי ראשון לענייני חוץ גלובליים, בעיצומם של מתחים עם ממשל טראמפ
-• AMD מדווחת על הכנסות שיא במרכזי נתונים, אך מניית החברה נופלת למרות עקיפת התחזיות
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-05.mp3" length="1545069" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-08-05</guid>
-      <pubDate>Wed, 05 Aug 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
