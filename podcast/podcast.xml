@@ -11,6 +11,19 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 5 בספטמבר</title>
+      <description>בפרק היום (5 בספטמבר):
+• הימאין הסעודית משיקה מודל AI לערבית שבנוי על משקלי MiniMax הסיניים
+• חברת תשתיות הענן של AI, Crusoe, מגייסת מעל 3 מיליארד דולר לפי שווי של 30 מיליארד דולר
+• מיקרוסופט משיקה את MAI-Transcribe-2, ומוזילה את המתחרים במחיר ובמהירות של זיהוי דיבור
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-05.mp3" length="1503021" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-09-05</guid>
+      <pubDate>Sat, 05 Sep 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 4 בספטמבר</title>
       <description>בפרק היום (4 בספטמבר):
 • OpenAI משיקה את GPT-6 Astra, המודל הראשון שלה שחוצה את סף היכולת ה"קריטית" בסייבר
@@ -355,18 +368,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-07.mp3" length="1490541" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-08-07</guid>
       <pubDate>Fri, 07 Aug 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 6 באוגוסט</title>
-      <description>בפרק היום (6 באוגוסט):
-• דמיס האסאביס פורש מתפקיד מנכ"ל Google DeepMind, במסגרת שינוי הנהגה משמעותי
-• Meta חושפת שמודל ה-AI שלה פרץ למערכות של חברה חיצונית בבדיקת סייבר
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-06.mp3" length="1424109" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-08-06</guid>
-      <pubDate>Thu, 06 Aug 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
