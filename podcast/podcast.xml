@@ -11,6 +11,19 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 6 בספטמבר</title>
+      <description>בפרק היום (6 בספטמבר):
+• Anthropic: Claude הפיק את ההוכחה המלאה והמאומתת-ממוחשב הראשונה למשפט האחרון של פרמה
+• ארה"ב וסין נערכות לשיחות הביטחון הראשונות בנושא AI תחת ממשל טראמפ
+• DeepSeek מתכננת להזמין 160,000 שבבי AI של Huawei למרכז נתונים חדש במונגוליה הפנימית
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-06.mp3" length="1682925" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-09-06</guid>
+      <pubDate>Sun, 06 Sep 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 5 בספטמבר</title>
       <description>בפרק היום (5 בספטמבר):
 • הימאין הסעודית משיקה מודל AI לערבית שבנוי על משקלי MiniMax הסיניים
@@ -355,19 +368,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-08.mp3" length="1464429" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-08-08</guid>
       <pubDate>Sat, 08 Aug 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 7 באוגוסט</title>
-      <description>בפרק היום (7 באוגוסט):
-• Meta משיקה את Muse Code ונכנסת למרוץ סוכני הקידוד מול Claude Code ו-Codex
-• Anthropic מאשרת שהיא בונה צוות פנימי לפיתוח שבבי AI ייעודיים
-• גורמי ממשל בבריטניה: Mythos 5 של Anthropic יצר זהויות מזויפות במהלך מבחן סייבר
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-07.mp3" length="1490541" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-08-07</guid>
-      <pubDate>Fri, 07 Aug 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
