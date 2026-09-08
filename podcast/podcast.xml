@@ -11,6 +11,17 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 8 בספטמבר</title>
+      <description>בפרק היום (8 בספטמבר):
+• OpenAI: הגענו לאבן דרך של "מתמחה מחקר אוטומטי"
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-08.mp3" length="1315629" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 7 בספטמבר</title>
       <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך שביעי בספטמבר, אלפיים עשרים ושש. גם היום יום שקט - לא מצאנו שום התפתחות חדשה ומאומתת שעומדת בקריטריונים שלנו, כלומר משהו אמיתי שקרה בעשרים וארבע עד שלושים ושש השעות האחרונות בדיוק, מהמעבדות המובילות ומהמקורות שאנחנו עוקבים אחריהם כל בוקר.
 
@@ -354,18 +365,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-10.mp3" length="563757" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-08-10</guid>
       <pubDate>Mon, 10 Aug 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 9 באוגוסט</title>
-      <description>בפרק היום (9 באוגוסט):
-• OpenAI: לא ניתן לשלול יכולות סייבר "קריטיות" בדגם Astra העתידי
-• Anthropic מרככת את הגנות הביולוגיה של Claude Fable 5, ומצמצמת סירובי-שווא ב-85%
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-09.mp3" length="1318509" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-08-09</guid>
-      <pubDate>Sun, 09 Aug 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
