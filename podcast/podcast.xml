@@ -11,6 +11,19 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 11 בספטמבר</title>
+      <description>בפרק היום (11 בספטמבר):
+• Anthropic: החברה סיכלה שימוש לרעה ב-Claude בשבע קטגוריות נזק, כולל מחקר לנשק ביולוגי ומבצע זיקוק (distillation) ענק של Alibaba
+• OpenAI פותחת בטא ציבורית ל-Agents API, ומעמידה את מנגנון הסוכנים Codex שלה מאחורי נקודת קצה מנוהלת אחת
+• הכנסות תשתיות הענן של Oracle יותר מהוכפלו ברבעון האחרון, ופער ההזמנות ל-AI הגיע ל-664 מיליארד דולר
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-11.mp3" length="1628589" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-09-11</guid>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 10 בספטמבר</title>
       <description>בפרק היום (10 בספטמבר):
 • חוקר של Anthropic מתפטר מחשש לבטיחות ה-AI; ראש צוות היישור בחברה מודה שאין "תוכנית" להתמודדות עם על-אינטליגנציה
@@ -356,19 +369,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-13.mp3" length="1735725" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-08-13</guid>
       <pubDate>Thu, 13 Aug 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 12 באוגוסט</title>
-      <description>בפרק היום (12 באוגוסט):
-• Anthropic מתחילה להטביע סימני מים בלתי נראים בכל פלט הטקסט והקבצים החדש של Claude
-• Nvidia משתפת פעולה עם שישה גופי וול סטריט כדי לגייס למעלה מ-500 מיליארד דולר למימון תשתיות AI
-• xAI משיקה את Grok Bot, בטא ציבורית של סוכני AI תמידיים כ"חברי צוות" לעבודה ארגונית
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-12.mp3" length="1695405" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-08-12</guid>
-      <pubDate>Wed, 12 Aug 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
