@@ -11,6 +11,19 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 12 בספטמבר</title>
+      <description>בפרק היום (12 בספטמבר):
+• סם אלטמן אומר לעובדי OpenAI שהחברה פתוחה להאטת הפיתוח של AI מתקדם
+• OpenAI משהה הרשמות חדשות למנוי Pro של ChatGPT ב-200 דולר לחודש בשל הביקוש ל-GPT-6 Astra
+• גוגל משיקה אפליקציית Gemini ילידית עבור Windows
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-12.mp3" length="1489965" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-09-12</guid>
+      <pubDate>Sat, 12 Sep 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 11 בספטמבר</title>
       <description>בפרק היום (11 בספטמבר):
 • Anthropic: החברה סיכלה שימוש לרעה ב-Claude בשבע קטגוריות נזק, כולל מחקר לנשק ביולוגי ומבצע זיקוק (distillation) ענק של Alibaba
@@ -356,19 +369,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-14.mp3" length="1561389" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-08-14</guid>
       <pubDate>Fri, 14 Aug 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 13 באוגוסט</title>
-      <description>בפרק היום (13 באוגוסט):
-• xAI משיקה את Grok 4.6, תואמת ל-GPT-5.6 Sol בבנצ'מרקים במחצית המחיר
-• אפליקציית ה-Gemini של גוגל חוצה מיליארד משתמשים פעילים בחודש
-• חברת הקוד באמצעות AI, Cognition, בשיחות מימון לפי שווי של מעל 40 מיליארד דולר
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-13.mp3" length="1735725" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-08-13</guid>
-      <pubDate>Thu, 13 Aug 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
