@@ -11,6 +11,18 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 13 בספטמבר</title>
+      <description>בפרק היום (13 בספטמבר):
+• דריו אמודיי מ-Anthropic קורא להאטה תעשייתית ב-AI; אלטמן ומאסק תומכים תוך שעות
+• סם אלטמן: OpenAI לא תונפק בבורסה ב-2026, בשל חששות בטיחות
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-13.mp3" length="1457709" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 12 בספטמבר</title>
       <description>בפרק היום (12 בספטמבר):
 • סם אלטמן אומר לעובדי OpenAI שהחברה פתוחה להאטת הפיתוח של AI מתקדם
@@ -356,19 +368,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-15.mp3" length="1488621" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-08-15</guid>
       <pubDate>Sat, 15 Aug 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 14 באוגוסט</title>
-      <description>בפרק היום (14 באוגוסט):
-• Anthropic במגעים לרכישת חברת הסטארטאפ הישראלית Decart תמורת 6 מיליארד דולר
-• קצב ההכנסות השנתי של OpenAI חצה את רף 40 מיליארד הדולר לקראת הנפקה
-• OpenAI ו-Cerebras משיקות מצב "Ultrafast" ל-GPT-5.6 Sol, מהיר פי 14
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-14.mp3" length="1561389" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-08-14</guid>
-      <pubDate>Fri, 14 Aug 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
