@@ -11,6 +11,19 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 15 בספטמבר</title>
+      <description>בפרק היום (15 בספטמבר):
+• סין דוחה את קריאתו של אמודיי להאטת קצב ה-AI כ"הפחדה", במקביל לחשיפת שיחות על גוף תקינה משותף של Anthropic‏, OpenAI ו-Google
+• Apple משיקה את iOS 27 עם השדרוג הגדול ביותר ל-Siri מאז 2011
+• חברת התשתיות Temporal מגייסת 550 מיליון דולר לפי שווי של 12.55 מיליארד דולר, על רקע ביקוש שמניעה הבינה המלאכותית הסוכנית
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-15.mp3" length="1521645" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-09-15</guid>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 14 בספטמבר</title>
       <description>בפרק היום (14 בספטמבר):
 • הוויכוח על האטת קצב ה-AI מסלים: Microsoft מצטרפת, שני חוקרי בטיחות נוספים עוברים ל-METR, וטראמפ דוחה את הקריאות בפומבי
@@ -356,17 +369,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-17.mp3" length="1331757" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-08-17</guid>
       <pubDate>Mon, 17 Aug 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 16 באוגוסט</title>
-      <description>בפרק היום (16 באוגוסט):
-• הכנסות הרבעון השני של Anthropic חצו 11.5 מיליארד דולר, והחברה רשמה לראשונה רווח תפעולי
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-16.mp3" length="1429869" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-08-16</guid>
-      <pubDate>Sun, 16 Aug 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
