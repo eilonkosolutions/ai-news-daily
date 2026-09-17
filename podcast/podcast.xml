@@ -11,6 +11,19 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 17 בספטמבר</title>
+      <description>בפרק היום (17 בספטמבר):
+• OpenAI משיקה מסגרת רשמית לחשיפת אי-יישור (misalignment) של מודלים, וחושפת שישה אירועים חדשים
+• ראש תחום ה-AI של מיקרוסופט תוקף בפומבי את גישת "רווחת המודל" של Anthropic
+• OpenAI מנהלת שיחות מוקדמות על גיוס בשווי 1.2 טריליון דולר, בעוד הנפקת 2026 מתעכבת עוד יותר
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-17.mp3" length="1692141" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-09-17</guid>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 16 בספטמבר</title>
       <description>בפרק היום (16 בספטמבר):
 • Agility Robotics חושפת את Digit 5, הרובוט ההומנואיד הראשון שלה שנבנה לעבודה לצד בני אדם ללא גדרות בטיחות
@@ -359,18 +372,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-19.mp3" length="1613613" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-08-19</guid>
       <pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 18 באוגוסט</title>
-      <description>בפרק היום (18 באוגוסט):
-• Nvidia סוגרת מימון של עד 105 מיליארד דולר למרכז הנתונים של OpenAI באוהיו
-• OpenAI פירקה את צוות ה-Preparedness שלה לבטיחות
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-18.mp3" length="1605741" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-08-18</guid>
-      <pubDate>Tue, 18 Aug 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
