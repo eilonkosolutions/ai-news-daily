@@ -11,6 +11,18 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 21 בספטמבר</title>
+      <description>בפרק היום (21 בספטמבר):
+• ארה"ב וסין מסכימות להשיק דיאלוג בטיחות AI, עם הצעה למנגנון דיווח על תקריות
+• חוקרי אבטחה: עוגיית המעקב הפרסומית של ChatGPT עוקבת אחרי משתמשים ברחבי הרשת בלי אפשרות ביטול
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-21.mp3" length="1552557" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-09-21</guid>
+      <pubDate>Mon, 21 Sep 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 20 בספטמבר</title>
       <description>בפרק היום (20 בספטמבר):
 • Anthropic שואפת לשווי של 2 טריליון דולר בהנפקה בנובמבר, מגייסת עד 100 מיליארד דולר
@@ -356,19 +368,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-23.mp3" length="1379181" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-08-23</guid>
       <pubDate>Sun, 23 Aug 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 22 באוגוסט</title>
-      <description>בפרק היום (22 באוגוסט):
-• Anthropic צופה שההנפקה שלה תשתווה או תעלה על השיא של SpaceX בגובה 86 מיליארד דולר
-• Broadcom מבקשת עד 100 מיליארד דולר בחוב כדי להרחיב את אספקת שבבי ה-AI עבור Anthropic
-• Nvidia במגעים מוקדמים עם חברת השבבים הקוריאנית Rebellions על שותפות אפשרית או רכישה
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-22.mp3" length="1587309" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-08-22</guid>
-      <pubDate>Sat, 22 Aug 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
