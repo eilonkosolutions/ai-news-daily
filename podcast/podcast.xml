@@ -11,6 +11,19 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 22 בספטמבר</title>
+      <description>בפרק היום (22 בספטמבר):
+• xAI משיקה את Grok 4.7, במחיר זהה ל-Grok 4.6 אך מפגרת אחרי החזית בבנצ'מרקים בלתי תלויים
+• פאנל מדעי של האו"ם מפרסם את התדריך הנושאי הראשון שלו, קורא לממשלות לרסן סוכני AI לפני שהסיכונים מובנים במלואם
+• מטא חושפת את Petal, כבל התת-ימי הראשון בעל קיבולת פטהביט חוצה-אוקיינוסים, כדי לעמוד בקצב גידול הנתונים המונע על ידי AI
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-22.mp3" length="1572525" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-09-22</guid>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 21 בספטמבר</title>
       <description>בפרק היום (21 בספטמבר):
 • ארה"ב וסין מסכימות להשיק דיאלוג בטיחות AI, עם הצעה למנגנון דיווח על תקריות
@@ -358,16 +371,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-24.mp3" length="1402989" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-08-24</guid>
       <pubDate>Mon, 24 Aug 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 23 באוגוסט</title>
-      <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך עשרים ושלושה באוגוסט, אלפיים עשרים ושש. היום היה יום שקט יחסית - לא הצלחנו לאתר שום התפתחות חדשה ומשמעותית שפרצה בעשרים וארבע עד שלושים ושש השעות האחרונות ועומדת בקריטריונים שלנו לדיווח.
-
-האתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-23.mp3" length="1379181" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-08-23</guid>
-      <pubDate>Sun, 23 Aug 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
