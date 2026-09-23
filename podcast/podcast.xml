@@ -11,6 +11,19 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 23 בספטמבר</title>
+      <description>בפרק היום (23 בספטמבר):
+• Anthropic משיקה את Claude Opus 5.5, ברמת Fable 5.1 ברוב המשימות במחיר נמוך ב-40%
+• OpenAI תאפשר לגורמי הערכה חיצוניים לבחון מודלים כבר בשלב האימון, במגעים עם METR ו-Redwood Research
+• מועצת הביטחון של האו"ם מקיימת לראשונה מפגש עם OpenAI, Anthropic וחברות AI סיניות בנושא סיכוני בינה מלאכותית
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-23.mp3" length="1600749" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-09-23</guid>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 22 בספטמבר</title>
       <description>בפרק היום (22 בספטמבר):
 • xAI משיקה את Grok 4.7, במחיר זהה ל-Grok 4.6 אך מפגרת אחרי החזית בבנצ'מרקים בלתי תלויים
@@ -361,16 +374,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-25.mp3" length="1467117" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-08-25</guid>
       <pubDate>Tue, 25 Aug 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 24 באוגוסט</title>
-      <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך עשרים וארבעה באוגוסט, אלפיים עשרים ושש. גם היום היה יום שקט - לא מצאנו שום התפתחות חדשה ומאומתת שעומדת בקריטריונים שלנו, כלומר משהו אמיתי שקרה בעשרים וארבע עד שלושים ושש השעות האחרונות בדיוק.
-
-האתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-24.mp3" length="1402989" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-08-24</guid>
-      <pubDate>Mon, 24 Aug 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
