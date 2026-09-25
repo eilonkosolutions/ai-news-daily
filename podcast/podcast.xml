@@ -11,6 +11,18 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 25 בספטמבר</title>
+      <description>בפרק היום (25 בספטמבר):
+• Google DeepMind: Gemini 4 נכנס לשלב מוקדם של פוסט-אימון, וייתכן שיושק "הרבה לפני" סוף השנה
+• Google, OpenAI ו-Anthropic פועלות להקמת גוף משותף לתקינת בטיחות ב-AI חזיתי
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-25.mp3" length="1484973" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-09-25</guid>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 24 בספטמבר</title>
       <description>בפרק היום (24 בספטמבר):
 • Anthropic: Claude גילה באופן עצמאי מערכת אנזימים חדשה בדמות CRISPR
@@ -362,18 +374,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-27.mp3" length="1359405" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-08-27</guid>
       <pubDate>Thu, 27 Aug 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 26 באוגוסט</title>
-      <description>בפרק היום (26 באוגוסט):
-• Perplexity משיקה את "Portable Computer" — סוכן AI מקומי לחלוטין הרץ על חומרת Nvidia ללא עלות טוקנים
-• חוקרים מקאלטק דוחים הצעה מגובה בזוס ומקימים סטארטאפ "פיזיקת AI" שאינו מבוסס טרנספורמרים
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-26.mp3" length="1389357" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-08-26</guid>
-      <pubDate>Wed, 26 Aug 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
