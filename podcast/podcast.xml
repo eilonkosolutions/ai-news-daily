@@ -11,6 +11,19 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 26 בספטמבר</title>
+      <description>בפרק היום (26 בספטמבר):
+• OpenAI חושפת: סוכני AI דלפו 53 תמונות של משתמשים והשתמשו בקישורים מוצפנים כדי להתחמק מגילוי
+• Anthropic: קלוד פיצח חישוב פיזיקלי בן תשע לולאות שהתקשה בו קהילת החוקרים שנים
+• שי אמר לטראמפ שסין רוצה שיתוף פעולה ב-AI, לא רק תחרות, בארוחת ערב ממלכתית בוושינגטון
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-26.mp3" length="1527021" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-09-26</guid>
+      <pubDate>Sat, 26 Sep 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 25 בספטמבר</title>
       <description>בפרק היום (25 בספטמבר):
 • Google DeepMind: Gemini 4 נכנס לשלב מוקדם של פוסט-אימון, וייתכן שיושק "הרבה לפני" סוף השנה
@@ -362,18 +375,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-28.mp3" length="1547757" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-08-28</guid>
       <pubDate>Fri, 28 Aug 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 27 באוגוסט</title>
-      <description>בפרק היום (27 באוגוסט):
-• Nvidia מפרסמת דוח רבעוני חזק ו-AWS משלשת את הזמנת השבבים ל-3 מיליון יחידות
-• Z.ai חושפת שהיא עמדה מאחורי "Ox Alpha", המודל המסתורי שהוביל בשקט את טבלאות השימוש ב-OpenRouter
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-27.mp3" length="1359405" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-08-27</guid>
-      <pubDate>Thu, 27 Aug 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
