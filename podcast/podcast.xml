@@ -11,6 +11,18 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 28 בספטמבר</title>
+      <description>בפרק היום (28 בספטמבר):
+• דריו אמודיי מ-Anthropic בארוחת ערב פרטית ראשונה עם טראמפ על רקע מחלוקת על בטיחות AI
+• הסנאט האוסטרלי מזמן רשמית את אלטמן ואת אמודיי בעקבות פרשת הפריצה של OpenAI
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-28.mp3" length="1428717" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-09-28</guid>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 27 בספטמבר</title>
       <description>בפרק היום (27 בספטמבר):
 • מיקרוסופט נסוגה ממירוץ הצ'אטבוטים האישיים ומאחדת את Copilot למוצר אחד שממוקד בארגונים
@@ -363,18 +375,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-30.mp3" length="1430637" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-08-30</guid>
       <pubDate>Sun, 30 Aug 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 29 באוגוסט</title>
-      <description>בפרק היום (29 באוגוסט):
-• שופט פדרלי קובע כי הפנטגון הכניס את Anthropic לרשימה שחורה שלא כדין
-• Meta סוגרת פרצת פרטיות במשקפי AI שאפשרה להסתיר הקלטה לאחר שהחלה
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-08-29.mp3" length="1432557" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-08-29</guid>
-      <pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
