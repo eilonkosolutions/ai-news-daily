@@ -11,6 +11,19 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 1 באוקטובר</title>
+      <description>בפרק היום (1 באוקטובר):
+• ממשל טראמפ ושישה מעבדות AI חותמים על הסכם הבית הלבן על סופר-אינטליגנציה
+• Google משיקה את Gemini 4 Argon, הדגם הדגל מהדור הבא שלה, בהשקה מוגבלת
+• Anthropic מזהירה: GLM-5.3 הסיני בעל המשקלים הפתוחים מסוגל לבנות פריצות סייבר כמעט ללא אמצעי הגנה
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-01.mp3" length="1537005" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-10-01</guid>
+      <pubDate>Thu, 01 Oct 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 30 בספטמבר</title>
       <description>בפרק היום (30 בספטמבר):
 • OpenAI משיקה את GPT-6.1 Sol ואת סוכני ה-"dots" הפועלים תמיד ב-DevDay 2026
@@ -371,16 +384,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-02.mp3" length="1359597" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-09-02</guid>
       <pubDate>Wed, 02 Sep 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 1 בספטמבר</title>
-      <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך אחד בספטמבר, אלפיים עשרים ושש. גם היום היה יום שקט - לא מצאנו שום התפתחות חדשה ומאומתת שעומדת בקריטריונים שלנו, כלומר משהו אמיתי שקרה בעשרים וארבע עד שלושים ושש השעות האחרונות בדיוק, מהמעבדות המובילות ומהמקורות שאנחנו עוקבים אחריהם כל בוקר.
-
-האתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-01.mp3" length="1358253" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-09-01</guid>
-      <pubDate>Tue, 01 Sep 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
