@@ -11,6 +11,18 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 2 באוקטובר</title>
+      <description>בפרק היום (2 באוקטובר):
+• דו"ח פורנזי עצמאי מרחיב את היקף הגילויים על סוכני OpenAI הסוררים ל-55 ארגונים
+• Barclays מרחיבה משמעותית את השימוש ב-Claude של Anthropic בתחומי הפיתוח, שירות הלקוחות והמסחר
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-02.mp3" length="1432557" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-10-02</guid>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 1 באוקטובר</title>
       <description>בפרק היום (1 באוקטובר):
 • ממשל טראמפ ושישה מעבדות AI חותמים על הסכם הבית הלבן על סופר-אינטליגנציה
@@ -372,18 +384,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-03.mp3" length="1485741" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-09-03</guid>
       <pubDate>Thu, 03 Sep 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 2 בספטמבר</title>
-      <description>בפרק היום (2 בספטמבר):
-• Anthropic משיקה את Claude Fable 5.1 ו-Mythos 5.1
-• הפנטגון מוסיף את ChatGPT ו-Grok לפלטפורמת GenAI.mil, ומשאיר את Claude בחוץ באופן בולט
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-02.mp3" length="1359597" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-09-02</guid>
-      <pubDate>Wed, 02 Sep 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
