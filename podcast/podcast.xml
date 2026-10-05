@@ -11,6 +11,18 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 5 באוקטובר</title>
+      <description>בפרק היום (5 באוקטובר):
+• טראמפ ממנה את ההנהגה המלאה של "כוח העל-אינטליגנציה" החדש שלו
+• מועצת העיר ניו יורק מחייבת את OpenAI, Anthropic, Google ו-Meta למסור עדות מושבעת על בטיחות AI
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-05.mp3" length="1424109" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-10-05</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 4 באוקטובר</title>
       <description>בפרק היום (4 באוקטובר):
 • בכיר בטיחות לשעבר ב-OpenAI מתפטר ומפרסם חיבור שמתאר את תרבות החברה כ"שבורה"
@@ -369,19 +381,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-06.mp3" length="1682925" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-09-06</guid>
       <pubDate>Sun, 06 Sep 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 5 בספטמבר</title>
-      <description>בפרק היום (5 בספטמבר):
-• הימאין הסעודית משיקה מודל AI לערבית שבנוי על משקלי MiniMax הסיניים
-• חברת תשתיות הענן של AI, Crusoe, מגייסת מעל 3 מיליארד דולר לפי שווי של 30 מיליארד דולר
-• מיקרוסופט משיקה את MAI-Transcribe-2, ומוזילה את המתחרים במחיר ובמהירות של זיהוי דיבור
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-05.mp3" length="1503021" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-09-05</guid>
-      <pubDate>Sat, 05 Sep 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
