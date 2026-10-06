@@ -11,6 +11,18 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 6 באוקטובר</title>
+      <description>בפרק היום (6 באוקטובר):
+• Reflection AI חושפת את Beam, מודל פתוח-משקלים בגודל 501 מיליארד פרמטרים שנועד להתחרות במודלים הפתוחים של סין
+• מנהלי חברות AI נותנים תשובות מתחמקות בנושא סיכון קטסטרופלי בשימוע תחת שבועה של מועצת ניו יורק
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-06.mp3" length="1597869" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 5 באוקטובר</title>
       <description>בפרק היום (5 באוקטובר):
 • טראמפ ממנה את ההנהגה המלאה של "כוח העל-אינטליגנציה" החדש שלו
@@ -368,19 +380,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-07.mp3" length="1378797" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-09-07</guid>
       <pubDate>Mon, 07 Sep 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 6 בספטמבר</title>
-      <description>בפרק היום (6 בספטמבר):
-• Anthropic: Claude הפיק את ההוכחה המלאה והמאומתת-ממוחשב הראשונה למשפט האחרון של פרמה
-• ארה"ב וסין נערכות לשיחות הביטחון הראשונות בנושא AI תחת ממשל טראמפ
-• DeepSeek מתכננת להזמין 160,000 שבבי AI של Huawei למרכז נתונים חדש במונגוליה הפנימית
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-06.mp3" length="1682925" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-09-06</guid>
-      <pubDate>Sun, 06 Sep 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
