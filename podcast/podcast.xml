@@ -11,6 +11,17 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 7 באוקטובר</title>
+      <description>בפרק היום (7 באוקטובר):
+• Anthropic מאחדת את תוכניות אבטחת הסייבר שלה ל"תוכנית אימות סייבר" מדורגת
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-07.mp3" length="1626669" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-10-07</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 6 באוקטובר</title>
       <description>בפרק היום (6 באוקטובר):
 • Reflection AI חושפת את Beam, מודל פתוח-משקלים בגודל 501 מיליארד פרמטרים שנועד להתחרות במודלים הפתוחים של סין
@@ -370,16 +381,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-08.mp3" length="1315629" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-09-08</guid>
       <pubDate>Tue, 08 Sep 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 7 בספטמבר</title>
-      <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך שביעי בספטמבר, אלפיים עשרים ושש. גם היום יום שקט - לא מצאנו שום התפתחות חדשה ומאומתת שעומדת בקריטריונים שלנו, כלומר משהו אמיתי שקרה בעשרים וארבע עד שלושים ושש השעות האחרונות בדיוק, מהמעבדות המובילות ומהמקורות שאנחנו עוקבים אחריהם כל בוקר.
-
-האתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-07.mp3" length="1378797" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-09-07</guid>
-      <pubDate>Mon, 07 Sep 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
