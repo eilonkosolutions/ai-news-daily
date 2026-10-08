@@ -11,6 +11,17 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 8 באוקטובר</title>
+      <description>בפרק היום (8 באוקטובר):
+• Anthropic משיקה את Claude Haiku 5.5, המודל הקטן המהיר והזול ביותר שלה עד כה
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-08.mp3" length="1623981" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 7 באוקטובר</title>
       <description>בפרק היום (7 באוקטובר):
 • Anthropic מאחדת את תוכניות אבטחת הסייבר שלה ל"תוכנית אימות סייבר" מדורגת
@@ -370,17 +381,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-09.mp3" length="1667949" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-09-09</guid>
       <pubDate>Wed, 09 Sep 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 8 בספטמבר</title>
-      <description>בפרק היום (8 בספטמבר):
-• OpenAI: הגענו לאבן דרך של "מתמחה מחקר אוטומטי"
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-08.mp3" length="1315629" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-09-08</guid>
-      <pubDate>Tue, 08 Sep 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
