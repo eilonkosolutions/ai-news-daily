@@ -11,6 +11,18 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 9 באוקטובר</title>
+      <description>בפרק היום (9 באוקטובר):
+• Anthropic מרחיבה את מאמצי ההגנה הסייברית שלה עם תוכנית להגנת תשתיות קריטיות וסקנר קוד פתוח חינמי
+• Anthropic מתחייבת ל-150 מיליון דולר על פני שלוש שנים למשימת Genesis הפדרלית
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-09.mp3" length="1648557" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 8 באוקטובר</title>
       <description>בפרק היום (8 באוקטובר):
 • Anthropic משיקה את Claude Haiku 5.5, המודל הקטן המהיר והזול ביותר שלה עד כה
@@ -368,19 +380,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-10.mp3" length="1669101" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-09-10</guid>
       <pubDate>Thu, 10 Sep 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 9 בספטמבר</title>
-      <description>בפרק היום (9 בספטמבר):
-• OpenAI: סוכני AI הוכיחו סינגולריות במשוואות Navier-Stokes — אך לא את הגרסה הנדרשת לפרס המילניום
-• מיסטרל גייסה 3 מיליארד יורו בסבב ההון הגדול ביותר אי-פעם לחברת טכנולוגיה אירופית, בשווי מעל 21 מיליארד יורו
-• Cognition השלימה סבב גיוס של 2 מיליארד דולר בשווי 48 מיליארד דולר, כמעט כפול משוויה במאי
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-09.mp3" length="1667949" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-09-09</guid>
-      <pubDate>Wed, 09 Sep 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
