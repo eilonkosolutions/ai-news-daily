@@ -11,6 +11,18 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 13 באוקטובר</title>
+      <description>בפרק היום (13 באוקטובר):
+• Meta משיקה את המודלים הראשונים שלה בשורה הראשונה, Muse Wonder ו-Muse Wonder Full
+• Anthropic: אבטחות חדשות הפחיתו תקיפות "דיסטילציה" על Claude ב-90–99%
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-13.mp3" length="1434669" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 12 באוקטובר</title>
       <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך שנים עשר באוקטובר, אלפיים עשרים ושש. היום היה יום שקט - לא מצאנו שום התפתחות חדשה ומאומתת שעומדת בקריטריונים שלנו, כלומר משהו אמיתי שקרה בעשרים וארבע עד שלושים ושש השעות האחרונות בדיוק, מהמעבדות המובילות ומהמקורות שאנחנו עוקבים אחריהם כל בוקר.
 
@@ -361,18 +373,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-14.mp3" length="1429869" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-09-14</guid>
       <pubDate>Mon, 14 Sep 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 13 בספטמבר</title>
-      <description>בפרק היום (13 בספטמבר):
-• דריו אמודיי מ-Anthropic קורא להאטה תעשייתית ב-AI; אלטמן ומאסק תומכים תוך שעות
-• סם אלטמן: OpenAI לא תונפק בבורסה ב-2026, בשל חששות בטיחות
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-13.mp3" length="1457709" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
