@@ -11,6 +11,19 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 15 באוקטובר</title>
+      <description>בפרק היום (15 באוקטובר):
+• נתוני אינפלציה חמים וחששות מימון סביב AI מחוללים את מכירת הטכנולוגיה הגרועה ביותר זה חודשים
+• Anthropic מפרטת אמצעי הגנה ומחקר חדשים לבחירות ב-2026 לקראת הבחירות לביניים בארה"ב
+• Anthropic פותחת משרד בסינגפור וחותמת על מזכר הבנות בנושא בטיחות AI עם ממשלת סינגפור
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-15.mp3" length="1436589" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 14 באוקטובר</title>
       <description>בפרק היום (14 באוקטובר):
 • Anthropic מזהירה: מודלי AI קטנים עשויים בקרוב "לשכפל את עצמם" על מכשירים חכמים זולים ללא צורך במרכז נתונים
@@ -361,19 +374,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-16.mp3" length="1617261" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-09-16</guid>
       <pubDate>Wed, 16 Sep 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 15 בספטמבר</title>
-      <description>בפרק היום (15 בספטמבר):
-• סין דוחה את קריאתו של אמודיי להאטת קצב ה-AI כ"הפחדה", במקביל לחשיפת שיחות על גוף תקינה משותף של Anthropic‏, OpenAI ו-Google
-• Apple משיקה את iOS 27 עם השדרוג הגדול ביותר ל-Siri מאז 2011
-• חברת התשתיות Temporal מגייסת 550 מיליון דולר לפי שווי של 12.55 מיליארד דולר, על רקע ביקוש שמניעה הבינה המלאכותית הסוכנית
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-15.mp3" length="1521645" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-09-15</guid>
-      <pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
