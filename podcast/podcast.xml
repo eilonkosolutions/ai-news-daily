@@ -11,6 +11,18 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 16 באוקטובר</title>
+      <description>בפרק היום (16 באוקטובר):
+• מכירת הטכנולוגיה סביב מימון AI מחמירה ומתפשטת לאסיה, ושולחת את מדד הקוספי הדרום-קוריאני לשוק דובי
+• Anthropic מעניקה לגוף ההערכה העצמאי METR גישה ברמת עובד למערכותיה — ולא יכולה לחסום את מה שהוא מפרסם
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-16.mp3" length="1510893" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 15 באוקטובר</title>
       <description>בפרק היום (15 באוקטובר):
 • נתוני אינפלציה חמים וחששות מימון סביב AI מחוללים את מכירת הטכנולוגיה הגרועה ביותר זה חודשים
@@ -361,19 +373,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-17.mp3" length="1692141" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-09-17</guid>
       <pubDate>Thu, 17 Sep 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 16 בספטמבר</title>
-      <description>בפרק היום (16 בספטמבר):
-• Agility Robotics חושפת את Digit 5, הרובוט ההומנואיד הראשון שלה שנבנה לעבודה לצד בני אדם ללא גדרות בטיחות
-• Google פותחת את הגישה ל-Claude Opus 5 לכל המהנדסים שלה, בסטייה מכלל פנימי ותיק שהגביל אותם ל-Gemini בלבד
-• ברני סנדרס וסטיב באנון חולקים במה בכנס "פרו-אנושי" על בינה מלאכותית בוושינגטון, קואליציה חריגה משני צדי המפה הפוליטית
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-16.mp3" length="1617261" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-09-16</guid>
-      <pubDate>Wed, 16 Sep 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
