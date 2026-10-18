@@ -11,6 +11,16 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 18 באוקטובר</title>
+      <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך שמונה עשרה באוקטובר, אלפיים עשרים ושש. גם היום עברנו על כל המקורות שלנו, ושוב לא מצאנו שום התפתחות שעומדת גם ברף הרעננות של עשרים וארבע עד שלושים ושש שעות וגם באימות מול מקור ראשוני אמין. אז קצת יום שקט, אבל בדיוק בשביל זה אנחנו עושים את העבודה הזו בכל בוקר - לא רק לדווח, אלא גם לבדוק מה לא ראוי לדיווח.
+
+האתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-18.mp3" length="1364589" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 17 באוקטובר</title>
       <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך שבעה עשר באוקטובר, אלפיים עשרים ושש. היום היה יום שקט - עברנו על כל המקורות שלנו ולא מצאנו אף התפתחות חדשה שעומדת גם ברף הרעננות של עשרים וארבע עד שלושים ושש שעות וגם באימות מול מקור ראשוני אמין.
 
@@ -358,18 +368,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-19.mp3" length="1503597" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-09-19</guid>
       <pubDate>Sat, 19 Sep 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 18 בספטמבר</title>
-      <description>בפרק היום (18 בספטמבר):
-• מנכ"ל Nvidia, Huang: מכירות שבבי ה-AI יוכפלו בשנה הבאה
-• Huawei חושפת את ה-Ascend 960 SuperPoD ומקדימה את מפת הדרכים לשבבי ה-AI שלה
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-18.mp3" length="1416237" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-09-18</guid>
-      <pubDate>Fri, 18 Sep 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
