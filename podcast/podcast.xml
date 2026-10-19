@@ -11,6 +11,17 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 19 באוקטובר</title>
+      <description>בפרק היום (19 באוקטובר):
+• Anthropic מקצה 5% ממניותיה לקרן חדשה בשם "Public Benefit Fund"
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-19.mp3" length="1424493" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 18 באוקטובר</title>
       <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך שמונה עשרה באוקטובר, אלפיים עשרים ושש. גם היום עברנו על כל המקורות שלנו, ושוב לא מצאנו שום התפתחות שעומדת גם ברף הרעננות של עשרים וארבע עד שלושים ושש שעות וגם באימות מול מקור ראשוני אמין. אז קצת יום שקט, אבל בדיוק בשביל זה אנחנו עושים את העבודה הזו בכל בוקר - לא רק לדווח, אלא גם לבדוק מה לא ראוי לדיווח.
 
@@ -356,18 +367,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-20.mp3" length="1513773" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-09-20</guid>
       <pubDate>Sun, 20 Sep 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 19 בספטמבר</title>
-      <description>בפרק היום (19 בספטמבר):
-• Anthropic ממנה את Accenture כמעריכת הבטיחות המוטמעת הראשונה שלה, עם 2 מיליארד דולר מתוכננים במשותף
-• צרכנים תובעים את Anthropic, OpenAI, xAI ו-Google, בטענה שהתחייבויות ההאטה שלהן מהוות תיאום בלתי חוקי
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-19.mp3" length="1503597" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-09-19</guid>
-      <pubDate>Sat, 19 Sep 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
