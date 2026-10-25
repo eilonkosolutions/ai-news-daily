@@ -11,6 +11,17 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 25 באוקטובר</title>
+      <description>בפרק היום (25 באוקטובר):
+• היועץ המשפטי לממשלת טקסס תובע את OpenAI ואת סם אלטמן בשל טענות הבטיחות של ChatGPT והתייחסותו לקטינים
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-25.mp3" length="1339437" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 24 באוקטובר</title>
       <description>בפרק היום (24 באוקטובר):
 • OpenAI מתקרבת לגיוס של עד 30 מיליארד דולר בשווי של כ-1.25 טריליון דולר, בהובלת משקיעים מאיחוד האמירויות
@@ -352,18 +363,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-26.mp3" length="1527021" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-09-26</guid>
       <pubDate>Sat, 26 Sep 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 25 בספטמבר</title>
-      <description>בפרק היום (25 בספטמבר):
-• Google DeepMind: Gemini 4 נכנס לשלב מוקדם של פוסט-אימון, וייתכן שיושק "הרבה לפני" סוף השנה
-• Google, OpenAI ו-Anthropic פועלות להקמת גוף משותף לתקינת בטיחות ב-AI חזיתי
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-25.mp3" length="1484973" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-09-25</guid>
-      <pubDate>Fri, 25 Sep 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
