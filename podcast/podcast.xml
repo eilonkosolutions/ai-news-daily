@@ -11,6 +11,17 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 27 באוקטובר</title>
+      <description>בפרק היום (27 באוקטובר):
+• עדכון: Anthropic הגישה בפומבי תשקיף ל-IPO, בכוונתה להירשם בנאסד"ק בסימול "ANT"
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-27.mp3" length="1481709" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 26 באוקטובר</title>
       <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך עשרים ושישה באוקטובר, אלפיים עשרים ושש. היום יום שני, ואחרי סוף שבוע שלם, הבוקר הזה יצא שקט במיוחד.
 
@@ -347,19 +358,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-28.mp3" length="1428717" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-09-28</guid>
       <pubDate>Mon, 28 Sep 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 27 בספטמבר</title>
-      <description>בפרק היום (27 בספטמבר):
-• מיקרוסופט נסוגה ממירוץ הצ'אטבוטים האישיים ומאחדת את Copilot למוצר אחד שממוקד בארגונים
-• מטא מחזקת את אזהרת האבטחה של סוכן ה-AI Muse לאחר שחוקר בתוכנית באגים מצא פרצה שחשפה מידע
-• Crusoe מבטלת הזמנת טורבינות של Boom Supersonic בשווי 1.25 מיליארד דולר למרכזי הנתונים שלה ל-AI
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-27.mp3" length="1453869" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-09-27</guid>
-      <pubDate>Sun, 27 Sep 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
