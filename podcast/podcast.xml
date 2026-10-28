@@ -11,6 +11,18 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 28 באוקטובר</title>
+      <description>בפרק היום (28 באוקטובר):
+• Anthropic מדווחת על תוצאות ראשוניות משש שותפויות לפיתוח תרופות, כולל תוכנית פנימית
+• Anthropic מרחיבה את השותפות עם GSA בהנחה של 40% על Claude לכל רמות הממשל האמריקאי
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-28.mp3" length="1569069" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-10-28</guid>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 27 באוקטובר</title>
       <description>בפרק היום (27 באוקטובר):
 • עדכון: Anthropic הגישה בפומבי תשקיף ל-IPO, בכוונתה להירשם בנאסד"ק בסימול "ANT"
@@ -346,18 +358,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-29.mp3" length="1432941" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-09-29</guid>
       <pubDate>Tue, 29 Sep 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 28 בספטמבר</title>
-      <description>בפרק היום (28 בספטמבר):
-• דריו אמודיי מ-Anthropic בארוחת ערב פרטית ראשונה עם טראמפ על רקע מחלוקת על בטיחות AI
-• הסנאט האוסטרלי מזמן רשמית את אלטמן ואת אמודיי בעקבות פרשת הפריצה של OpenAI
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-28.mp3" length="1428717" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-09-28</guid>
-      <pubDate>Mon, 28 Sep 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
