@@ -11,6 +11,17 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 30 באוקטובר</title>
+      <description>בפרק היום (30 באוקטובר):
+• עדכון: Alphabet רושמת את יום המסחר הגרוע ביותר שלה מאז ההנפקה ב-2004, כשדוחות הרבעון השלישי של חברות הטכנולוגיה הגדולות מתרגמים את החששות סביב השקעות ה-AI למספרים מוחשיים
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-30.mp3" length="1351533" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-10-30</guid>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 29 באוקטובר</title>
       <description>בפרק היום (29 באוקטובר):
 • גוגל משיקה את Gemini 4 Carbon, בטענה למודל החזק ביותר שלה עד כה
@@ -345,19 +356,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-01.mp3" length="1537005" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-10-01</guid>
       <pubDate>Thu, 01 Oct 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 30 בספטמבר</title>
-      <description>בפרק היום (30 בספטמבר):
-• OpenAI משיקה את GPT-6.1 Sol ואת סוכני ה-"dots" הפועלים תמיד ב-DevDay 2026
-• דלף תשקיף ההנפקה של Anthropic חושף הפסד נקי של 42 מיליארד דולר ואזהרה מפני "סיכון קיומי" מ-AI
-• ממשל טראמפ משיק את America.gov, "דלת כניסה" מבוססת AI לשירותי הממשל הפדרלי הבנויה על Gemini ו-Grok
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-09-30.mp3" length="1528365" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-09-30</guid>
-      <pubDate>Wed, 30 Sep 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
