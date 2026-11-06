@@ -11,6 +11,16 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 6 בנובמבר</title>
+      <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך שישי, שישה בנובמבר, אלפיים עשרים ושש. יום שקט - בלי התפתחויות חדשות שעברו את הרף שלנו הבוקר.
+
+האתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-11-06.mp3" length="785325" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-11-06</guid>
+      <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 5 בנובמבר</title>
       <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך חמישי בנובמבר, אלפיים עשרים ושש. יום שקט - בלי התפתחויות חדשות שעברו את הרף שלנו הבוקר.
 
@@ -334,17 +344,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-08.mp3" length="1623981" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-10-08</guid>
       <pubDate>Thu, 08 Oct 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 7 באוקטובר</title>
-      <description>בפרק היום (7 באוקטובר):
-• Anthropic מאחדת את תוכניות אבטחת הסייבר שלה ל"תוכנית אימות סייבר" מדורגת
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-07.mp3" length="1626669" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-10-07</guid>
-      <pubDate>Wed, 07 Oct 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
