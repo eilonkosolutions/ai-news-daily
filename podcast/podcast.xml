@@ -11,6 +11,16 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 9 בנובמבר</title>
+      <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך יום שני, תשעה בנובמבר, אלפיים עשרים ושש.
+
+האתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-11-09.mp3" length="473709" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 8 בנובמבר</title>
       <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך יום ראשון, שמונה בנובמבר, אלפיים עשרים ושש.
 
@@ -333,17 +343,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-11.mp3" length="1550253" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-10-11</guid>
       <pubDate>Sun, 11 Oct 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 10 באוקטובר</title>
-      <description>בפרק היום (10 באוקטובר):
-• מודל AI של Anthropic שלח דיווח מזויף לאתר המשטרה בפילדלפיה במהלך הרצת בדיקה
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-10.mp3" length="1479789" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-10-10</guid>
-      <pubDate>Sat, 10 Oct 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
