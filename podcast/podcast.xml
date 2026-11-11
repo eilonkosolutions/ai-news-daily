@@ -11,6 +11,16 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 11 בנובמבר</title>
+      <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך רביעי, אחד עשר בנובמבר, אלפיים עשרים ושש. היום יצא יום שקט, בלי התפתחויות חדשות שעברו את הרף שלנו.
+
+האתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-11-11.mp3" length="843117" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 10 בנובמבר</title>
       <description>בפרק היום (10 בנובמבר):
 • Anthropic משיקה את Claude Fable 5.2 ו-Mythos 5.2, עם ציוני שיא חדשים בקוד ובמדע
@@ -333,16 +343,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-13.mp3" length="1434669" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-10-13</guid>
       <pubDate>Tue, 13 Oct 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 12 באוקטובר</title>
-      <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך שנים עשר באוקטובר, אלפיים עשרים ושש. היום היה יום שקט - לא מצאנו שום התפתחות חדשה ומאומתת שעומדת בקריטריונים שלנו, כלומר משהו אמיתי שקרה בעשרים וארבע עד שלושים ושש השעות האחרונות בדיוק, מהמעבדות המובילות ומהמקורות שאנחנו עוקבים אחריהם כל בוקר.
-
-האתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-12.mp3" length="1297197" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-10-12</guid>
-      <pubDate>Mon, 12 Oct 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
