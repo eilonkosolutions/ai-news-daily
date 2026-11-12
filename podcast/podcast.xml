@@ -11,6 +11,16 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 12 בנובמבר</title>
+      <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך חמישי, שנים עשר בנובמבר, אלפיים עשרים ושש. גם היום יצא יום שקט, בלי התפתחויות חדשות שעברו את הרף שלנו.
+
+האתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-11-12.mp3" length="775917" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 11 בנובמבר</title>
       <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך רביעי, אחד עשר בנובמבר, אלפיים עשרים ושש. היום יצא יום שקט, בלי התפתחויות חדשות שעברו את הרף שלנו.
 
@@ -331,18 +341,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-14.mp3" length="1625901" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-10-14</guid>
       <pubDate>Wed, 14 Oct 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 13 באוקטובר</title>
-      <description>בפרק היום (13 באוקטובר):
-• Meta משיקה את המודלים הראשונים שלה בשורה הראשונה, Muse Wonder ו-Muse Wonder Full
-• Anthropic: אבטחות חדשות הפחיתו תקיפות "דיסטילציה" על Claude ב-90–99%
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-13.mp3" length="1434669" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-10-13</guid>
-      <pubDate>Tue, 13 Oct 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
