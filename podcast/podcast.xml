@@ -11,6 +11,16 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 14 בנובמבר</title>
+      <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך שבת, ארבעה עשר בנובמבר, אלפיים עשרים ושש. היום יום שקט, בלי התפתחויות חדשות שעברו את הרף שלנו.
+
+האתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-11-14.mp3" length="545709" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-11-14</guid>
+      <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 13 בנובמבר</title>
       <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך שישי, שלושה עשר בנובמבר, אלפיים עשרים ושש. גם היום יצא יום שקט, בלי התפתחויות חדשות שעברו את הרף שלנו.
 
@@ -325,19 +335,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-16.mp3" length="1510893" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-10-16</guid>
       <pubDate>Fri, 16 Oct 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 15 באוקטובר</title>
-      <description>בפרק היום (15 באוקטובר):
-• נתוני אינפלציה חמים וחששות מימון סביב AI מחוללים את מכירת הטכנולוגיה הגרועה ביותר זה חודשים
-• Anthropic מפרטת אמצעי הגנה ומחקר חדשים לבחירות ב-2026 לקראת הבחירות לביניים בארה"ב
-• Anthropic פותחת משרד בסינגפור וחותמת על מזכר הבנות בנושא בטיחות AI עם ממשלת סינגפור
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-15.mp3" length="1436589" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-10-15</guid>
-      <pubDate>Thu, 15 Oct 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
