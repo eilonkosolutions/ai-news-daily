@@ -11,6 +11,16 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 16 בנובמבר</title>
+      <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך יום שני, שישה עשר בנובמבר, אלפיים עשרים ושש. היום יום שקט, בלי התפתחויות חדשות שעברו את הרף שלנו.
+
+האתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-11-16.mp3" length="558381" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 15 בנובמבר</title>
       <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך יום ראשון, חמישה עשר בנובמבר, אלפיים עשרים ושש. היום יום שקט, בלי התפתחויות חדשות שעברו את הרף שלנו.
 
@@ -323,16 +333,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-18.mp3" length="1364589" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-10-18</guid>
       <pubDate>Sun, 18 Oct 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 17 באוקטובר</title>
-      <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך שבעה עשר באוקטובר, אלפיים עשרים ושש. היום היה יום שקט - עברנו על כל המקורות שלנו ולא מצאנו אף התפתחות חדשה שעומדת גם ברף הרעננות של עשרים וארבע עד שלושים ושש שעות וגם באימות מול מקור ראשוני אמין.
-
-האתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-17.mp3" length="1324269" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-10-17</guid>
-      <pubDate>Sat, 17 Oct 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
