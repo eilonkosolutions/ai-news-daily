@@ -11,6 +11,20 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 18 בנובמבר</title>
+      <description>בפרק היום (18 בנובמבר):
+• Nvidia מדווחת על רבעון שיא של 115.8 מיליארד דולר בדוח הרווחים הראשון ללא Jensen Huang
+• Jensen Huang מתפטר מתפקיד מנכ"ל Nvidia; סמנכ"לית הכספים Colette Kress מונתה למנכ"לית זמנית
+• Anthropic צפויה לתמחר הלילה הנפקה שוברת שיאים לאחר שקבעה טווח של 70–78 דולר
+• ארבעה ארגונים ללא מטרות רווח תובעים את OpenAI, Anthropic, Google, Meta ויחידת ה-AI של SpaceX בדרישה להקפיא AI חזיתי
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-11-18.mp3" length="1541996" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 17 בנובמבר</title>
       <description>שלום, וברוכים הבאים לחדשות הבינה המלאכותית היומיות. היום שבע עשרה בנובמבר, אלפיים עשרים ושש.
 
@@ -322,17 +336,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-20.mp3" length="1442733" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-10-20</guid>
       <pubDate>Tue, 20 Oct 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 19 באוקטובר</title>
-      <description>בפרק היום (19 באוקטובר):
-• Anthropic מקצה 5% ממניותיה לקרן חדשה בשם "Public Benefit Fund"
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-19.mp3" length="1424493" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-10-19</guid>
-      <pubDate>Mon, 19 Oct 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
