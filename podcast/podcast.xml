@@ -11,6 +11,18 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 19 בנובמבר</title>
+      <description>בפרק היום (19 בנובמבר):
+• Anthropic תמחרה את ההנפקה ב-83 דולר למניה, מעל הטווח, וגייסה 81.3 מיליארד דולר לקראת הבכורה ב-Nasdaq
+• Palo Alto Networks תרכוש את פלטפורמת המודלים הפתוחים Applied Compute תמורת 4.5 מיליארד דולר
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-11-19.mp3" length="1461356" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 18 בנובמבר</title>
       <description>בפרק היום (18 בנובמבר):
 • Nvidia מדווחת על רבעון שיא של 115.8 מיליארד דולר בדוח הרווחים הראשון ללא Jensen Huang
@@ -324,18 +336,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-21.mp3" length="1479405" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-10-21</guid>
       <pubDate>Wed, 21 Oct 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 20 באוקטובר</title>
-      <description>בפרק היום (20 באוקטובר):
-• חברת doubleAI, הנתמכת על ידי Nvidia, משיקה את "Maxwell" — מודל שכותב מחדש קוד בזמן ריצה כדי לקצץ בעלויות המחשוב
-• עדכון: מניות ה-AI והשבבים מתאוששות עם שיפור דירוג של גולדמן ל-CoreWeave, אך הלחץ בשוק האג"ח נמשך
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-20.mp3" length="1442733" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-10-20</guid>
-      <pubDate>Tue, 20 Oct 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
