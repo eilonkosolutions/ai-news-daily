@@ -11,6 +11,19 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 20 בנובמבר</title>
+      <description>בפרק היום (20 בנובמבר):
+• מניית Anthropic נפתחה 34% מעל מחיר ההנפקה בבכורה ב-Nasdaq ונסגרה בעלייה של 17%, בזמן שהשוק הרחב ירד
+• ארה"ב מחייבת רישיונות לשבבי AI לחמש מדינות וסוגרת את פרצת הגישה מרחוק של סין
+• Isomorphic Labs מגייסת 5 מיליארד דולר בסבב C כדי לקדם תרופות שתוכננו ב-AI לניסויים בבני אדם
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-11-20.mp3" length="1529324" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 19 בנובמבר</title>
       <description>בפרק היום (19 בנובמבר):
 • Anthropic תמחרה את ההנפקה ב-83 דולר למניה, מעל הטווח, וגייסה 81.3 מיליארד דולר לקראת הבכורה ב-Nasdaq
@@ -326,16 +339,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-22.mp3" length="1366893" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-10-22</guid>
       <pubDate>Thu, 22 Oct 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 21 באוקטובר</title>
-      <description>בוקר טוב וברוכים הבאים לעדכון היומי בעולם הבינה המלאכותית, לתאריך עשרים ואחד באוקטובר, אלפיים עשרים ושש. עברנו הבוקר על כל המקורות שלנו - הבלוגים הרשמיים של מעבדות החוד, פיד המחקר האקדמי, והרשתות החברתיות של האנשים המרכזיים בתעשייה - ושוב לא מצאנו שום התפתחות שעומדת גם ברף הרעננות של עד שלושים ושש שעות וגם באימות מול מקור אמין. יום שקט, אבל בדיוק בשביל ימים כאלה אנחנו עושים את העבודה הזו בכל בוקר.
-
-האתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-21.mp3" length="1479405" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-10-21</guid>
-      <pubDate>Wed, 21 Oct 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
