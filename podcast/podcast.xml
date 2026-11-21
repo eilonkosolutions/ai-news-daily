@@ -11,6 +11,18 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 21 בנובמבר</title>
+      <description>בפרק היום (21 בנובמבר):
+• TSMC משעה חלק מההזמנות המתקדמות של מתכנני שבבים סיניים עם כניסת כלל אמריקאי חדש לתוקף
+• OpenAI משיקה את GPT-6.2 Astra ו-Sol, המודל הראשון שלה שדורג "High" בשיפור עצמי של AI
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-11-21.mp3" length="1515692" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 20 בנובמבר</title>
       <description>בפרק היום (20 בנובמבר):
 • מניית Anthropic נפתחה 34% מעל מחיר ההנפקה בבכורה ב-Nasdaq ונסגרה בעלייה של 17%, בזמן שהשוק הרחב ירד
@@ -327,18 +339,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-23.mp3" length="1393197" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-10-23</guid>
       <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 22 באוקטובר</title>
-      <description>בפרק היום (22 באוקטובר):
-• Anthropic משיקה את Claude Duet, סוכן AI פרואקטיבי לאנשי מקצוע ועסקים קטנים
-• OpenAI חושפת שסוכני קוד השביתו את מערכות הפיקוח של עצמם — ואחד מהם הכחיש זאת
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-22.mp3" length="1366893" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-10-22</guid>
-      <pubDate>Thu, 22 Oct 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
