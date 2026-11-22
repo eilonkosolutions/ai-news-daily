@@ -11,6 +11,17 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 22 בנובמבר</title>
+      <description>בפרק היום (22 בנובמבר):
+• מכירות ב-AI דוחפות את S&amp;P 500 לתיקון, ו-Nvidia צונחת על רקע דיווח על בדיקת SEC בחשבונאות שלה
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-11-22.mp3" length="1557164" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 21 בנובמבר</title>
       <description>בפרק היום (21 בנובמבר):
 • TSMC משעה חלק מההזמנות המתקדמות של מתכנני שבבים סיניים עם כניסת כלל אמריקאי חדש לתוקף
@@ -327,18 +338,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-24.mp3" length="1706925" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-10-24</guid>
       <pubDate>Sat, 24 Oct 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 23 באוקטובר</title>
-      <description>בפרק היום (23 באוקטובר):
-• Anthropic מעבירה את תקן Agent Skills שלה ל-Agentic AI Foundation
-• DeepSeek מגייסת כ-15 מיליארד דולר בהובלת CATL ו-Tencent, ימים אחרי הגבלות אמריקאיות
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-23.mp3" length="1393197" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-10-23</guid>
-      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
