@@ -11,6 +11,18 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 23 בנובמבר</title>
+      <description>בפרק היום (23 בנובמבר):
+• Trump מאיים ב"מס אדיר" על חברות אמריקאיות שבונות מרכזי נתונים ל-AI מחוץ לארה"ב
+• Amazon קרובה לעסקה של 7.5 מיליארד דולר לרכישת סטארט-אפ ייעול ה-AI Decart, לפי FT
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-11-23.mp3" length="1484396" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 22 בנובמבר</title>
       <description>בפרק היום (22 בנובמבר):
 • מכירות ב-AI דוחפות את S&amp;P 500 לתיקון, ו-Nvidia צונחת על רקע דיווח על בדיקת SEC בחשבונאות שלה
@@ -325,19 +337,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-25.mp3" length="1339437" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-10-25</guid>
       <pubDate>Sun, 25 Oct 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 24 באוקטובר</title>
-      <description>בפרק היום (24 באוקטובר):
-• OpenAI מתקרבת לגיוס של עד 30 מיליארד דולר בשווי של כ-1.25 טריליון דולר, בהובלת משקיעים מאיחוד האמירויות
-• כלי AI עזרו לחשוף פגם קריטי ב-PHP שפוגע בכ-70% מהאתרים באינטרנט, והוביל לגל תיקונים חירום גלובלי
-• עדכון: חששות מהוצאות AI שולחים את מדד הנאסד"ק למסחר הגרוע ביותר שלו מאז יוני, והופכים את ההתאוששות של השבוע שעבר
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-24.mp3" length="1706925" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-10-24</guid>
-      <pubDate>Sat, 24 Oct 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
