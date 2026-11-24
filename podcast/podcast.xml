@@ -11,6 +11,17 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 24 בנובמבר</title>
+      <description>בפרק היום (24 בנובמבר):
+• דירקטוריון Nvidia מחזיר את Jensen Huang לתפקיד המנכ"ל אחרי לחץ של טראמפ; המניה רושמת את היום הטוב ביותר שלה מאז 2003
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-11-24.mp3" length="1527980" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 23 בנובמבר</title>
       <description>בפרק היום (23 בנובמבר):
 • Trump מאיים ב"מס אדיר" על חברות אמריקאיות שבונות מרכזי נתונים ל-AI מחוץ לארה"ב
@@ -326,17 +337,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-26.mp3" length="1485357" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-10-26</guid>
       <pubDate>Mon, 26 Oct 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 25 באוקטובר</title>
-      <description>בפרק היום (25 באוקטובר):
-• היועץ המשפטי לממשלת טקסס תובע את OpenAI ואת סם אלטמן בשל טענות הבטיחות של ChatGPT והתייחסותו לקטינים
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-25.mp3" length="1339437" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-10-25</guid>
-      <pubDate>Sun, 25 Oct 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
