@@ -11,6 +11,29 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 27 בנובמבר</title>
+      <description>בפרק היום (27 בנובמבר):
+• ה-FCC מאשרת את תוכנית "Starmind" של SpaceX לעד מיליון לווייני מרכזי נתונים ל-AI
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-11-27.mp3" length="1444460" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-11-27</guid>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חדשות בינה מלאכותית יומיות — 26 בנובמבר</title>
+      <description>בפרק היום (26 בנובמבר):
+• מאמר טרום-פרסום של OpenAI טוען שמעריך כפל המטריצות הוא בדיוק 9/4
+• עדכון: גל המכירות ב-AI דוחף לרגע את Nasdaq 100 אל סף שוק דובי לפני שקונים בירידות נכנסים
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-11-26.mp3" length="1545452" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 25 בנובמבר</title>
       <description>בפרק היום (25 בנובמבר):
 • ארה"ב מכניסה לרשימה השחורה את החברה הבת של Alibaba בסינגפור ואת לקוחת Nvidia ‏Megaspeed בשל סיכון להסטת שבבי AI
@@ -316,29 +339,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-29.mp3" length="1577325" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-10-29</guid>
       <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 28 באוקטובר</title>
-      <description>בפרק היום (28 באוקטובר):
-• Anthropic מדווחת על תוצאות ראשוניות משש שותפויות לפיתוח תרופות, כולל תוכנית פנימית
-• Anthropic מרחיבה את השותפות עם GSA בהנחה של 40% על Claude לכל רמות הממשל האמריקאי
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-28.mp3" length="1569069" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-10-28</guid>
-      <pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 27 באוקטובר</title>
-      <description>בפרק היום (27 באוקטובר):
-• עדכון: Anthropic הגישה בפומבי תשקיף ל-IPO, בכוונתה להירשם בנאסד"ק בסימול "ANT"
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-27.mp3" length="1481709" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-10-27</guid>
-      <pubDate>Tue, 27 Oct 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
