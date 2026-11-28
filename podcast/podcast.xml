@@ -11,6 +11,18 @@
     <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדשות בינה מלאכותית יומיות — 28 בנובמבר</title>
+      <description>בפרק היום (28 בנובמבר):
+• Nvidia עוצרת משלוחי שרתי AI למלזיה, סינגפור, תאילנד ואינדונזיה, לפי ה-FT
+• עדכון: מניות ה-AI מתאוששות וה-S&amp;P 500 רושם את העלייה השבועית הגדולה ביותר שלו מזה יותר משנה
+
+כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
+את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
+      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-11-28.mp3" length="1468268" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-news-daily-2026-11-28</guid>
+      <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>חדשות בינה מלאכותית יומיות — 27 בנובמבר</title>
       <description>בפרק היום (27 בנובמבר):
 • ה-FCC מאשרת את תוכנית "Starmind" של SpaceX לעד מיליון לווייני מרכזי נתונים ל-AI
@@ -326,19 +338,6 @@
       <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-30.mp3" length="1351533" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-news-daily-2026-10-30</guid>
       <pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>חדשות בינה מלאכותית יומיות — 29 באוקטובר</title>
-      <description>בפרק היום (29 באוקטובר):
-• גוגל משיקה את Gemini 4 Carbon, בטענה למודל החזק ביותר שלה עד כה
-• OpenAI נתבעת בעקבות מותה של אישה מסיאטל, לאחר ש-ChatGPT לכאורה הנחה אותה להפחית תרופה לאפילפסיה
-• Anthropic מרחיבה את תוכנית AI for Science לקרנות, מוסדות ופרויקטי מחקר
-
-כל הסיפורים, ההרחבות והמקורות באתר: https://eilonkosolutions.github.io/ai-news-daily
-את הפרק הזה בנה סוכן AI מקצה לקצה, כי לבנות עם AI זה כיף.</description>
-      <enclosure url="https://eilonkosolutions.github.io/ai-news-daily/podcast/episodes/2026-10-29.mp3" length="1577325" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-news-daily-2026-10-29</guid>
-      <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
